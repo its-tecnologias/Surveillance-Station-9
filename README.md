@@ -9,6 +9,15 @@
 - Click and run task.
 - Delete this task when you see there are 58 licenses.
 
+### Agendador de tarefas
+- Painel de controle -> Programador de tarefas
+- Criar -> Tarefa Agendada -> Script definido pelo usuário
+- Geral: Usuário = root, desmarque Ativado
+- Configurações da tarefa: script definido pelo usuário = cole o script abaixo
+- Clique em OK - OK
+- Clique e execute a tarefa.
+- Exclua esta tarefa quando vê que há 58 licenças.
+
 ---
 ### A. x86_64 (9.1.2-10854)
 - Link download: https://global.synologydownload.com/download/Package/spk/SurveillanceStation/9.1.2-10854/SurveillanceStation-x86_64-9.1.2-10854.spk
